@@ -1,0 +1,2661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507225816FHUWYF</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050722581672VV7T</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>El latín en la publicidad y en las marcas comerciales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje para 1.º de Bachillerato en la materia de Latín</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María de la Paz Veintimilla Porlán</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Se trata de una situación de aprendizaje en la que exploraremos la pervivencia de términos y expresiones de la cultura latina en la actualidad y su influencia en la publicidad y las marcas comerciales. Realizaremos una actividad introductoria gamificada en el aula y seguidamente el alumnado elaborará un producto final que consistirá en la creación de un cartel publicitario junto con una presentación oral para la promoción de un producto o marca comercial inventada en relación con algún término o elemento de la cultura latina. Lo harán en grupo y el soporte para el cartel será digital.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778187213573</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movyr74r-rw5t5538d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr74r-rw5t5538d</odePageId>
+      <odeBlockId>block-1778155889072-ymzsikyu0</odeBlockId>
+      <blockName>El latín en la publicidad las marcas comerciales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74r-rw5t5538d</odePageId>
+          <odeBlockId>block-1778155889072-ymzsikyu0</odeBlockId>
+          <odeIdeviceId>idevice-1778155889070-b136jo6ys</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center" style="width: 396px; text-align: center;">
+<div class="figcaption header"><strong>Versace y la referencia clásica de Medusa</strong></div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_of_Versace-Rosenthal_cooperation_on_back_of_ashtray.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" title="Logo Versace" width="396" height="379" alt="Pittigrilli, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" />
+<figcaption class="figcaption"><a href="https://commons.wikimedia.org/wiki/File:Logo_of_Versace-Rosenthal_cooperation_on_back_of_ashtray.jpeg" class="author" target="_blank" rel="noopener">Pittigrilli, CC BY-SA 4.0 <https: creativecommons="" org="" licenses="" by-sa="" 4="" 0="">, via Wikimedia Commons</https:></a>. <a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_of_Versace-Rosenthal_cooperation_on_back_of_ashtray.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" class="title" target="_blank" rel="noopener"><em>Logo de la colaboración Versace-Rosenthal en la parte posterior de un cenicero, con la imagen de Medusa como referencia al mundo clásico.</em></a></figcaption>
+</figure>
+<p><br /></p>
+<p style="text-align: left;">¿Sabías que muchas marcas, lemas y expresiones actuales tienen relación con el latín y con la cultura clásica? En este proyecto vamos a descubrir cómo el legado romano sigue presente en la publicidad de hoy. Después, trabajaréis en equipo para crear vuestra propia marca inspirada en el mundo latino.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778155889070-b136jo6ys","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 396px; text-align: center;\">\n<div class=\"figcaption header\"><strong>Versace y la referencia clásica de Medusa</strong></div>\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_of_Versace-Rosenthal_cooperation_on_back_of_ashtray.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original\" title=\"Logo Versace\" width=\"396\" height=\"379\" alt=\"Pittigrilli, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons\" />\n<figcaption class=\"figcaption\"><a href=\"https://commons.wikimedia.org/wiki/File:Logo_of_Versace-Rosenthal_cooperation_on_back_of_ashtray.jpeg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pittigrilli, CC BY-SA 4.0 <https: creativecommons=\"\" org=\"\" licenses=\"\" by-sa=\"\" 4=\"\" 0=\"\">, via Wikimedia Commons</https:></a>. <a href=\"https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_of_Versace-Rosenthal_cooperation_on_back_of_ashtray.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Logo de la colaboración Versace-Rosenthal en la parte posterior de un cenicero, con la imagen de Medusa como referencia al mundo clásico.</em></a></figcaption>\n</figure>\n<p><br /></p>\n<p style=\"text-align: left;\">¿Sabías que muchas marcas, lemas y expresiones actuales tienen relación con el latín y con la cultura clásica? En este proyecto vamos a descubrir cómo el legado romano sigue presente en la publicidad de hoy. Después, trabajaréis en equipo para crear vuestra propia marca inspirada en el mundo latino.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74r-rw5t5538d</odePageId>
+      <odeBlockId>block-1778160043565-7r981a8g4</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74r-rw5t5538d</odePageId>
+          <odeBlockId>block-1778160043565-7r981a8g4</odeBlockId>
+          <odeIdeviceId>idevice-1778160043563-r8dpqrh00</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Exploraremos </strong>la pervivencia de términos y expresiones de la cultura latina en la actualidad y su influencia en la publicidad y las marcas comerciales. Primero veremos algunos ejemplos en clase sobre marcas y productos inspirados en la cultura latina y os pondré a prueba con un Kahoot. Después os pondréis manos a la obra con el <strong>producto final</strong>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778160043563-r8dpqrh00","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Exploraremos </strong>la pervivencia de términos y expresiones de la cultura latina en la actualidad y su influencia en la publicidad y las marcas comerciales. Primero veremos algunos ejemplos en clase sobre marcas y productos inspirados en la cultura latina y os pondré a prueba con un Kahoot. Después os pondréis manos a la obra con el <strong>producto final</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-movyr74r-rw5t5538d</odePageId>
+          <odeBlockId>block-1778160043565-7r981a8g4</odeBlockId>
+          <odeIdeviceId>idevice-1778160544450-cnrig4rg4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nivel: 1.º de Bachillerato<br />Materia: Latín<br />Duración: 4 sesiones</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778160544450-cnrig4rg4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nivel: 1.º de Bachillerato<br />Materia: Latín<br />Duración: 4 sesiones</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74r-rw5t5538d</odePageId>
+      <odeBlockId>block-1778160307985-djhipqcyp</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74r-rw5t5538d</odePageId>
+          <odeBlockId>block-1778160307985-djhipqcyp</odeBlockId>
+          <odeIdeviceId>idevice-1778160307984-ly4009xdh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Creación de un <strong>cartel publicitario</strong> junto con una <strong>presentación oral</strong> para la promoción de un producto o marca comercial inventada en relación con algún término o elemento de la cultura latina. Lo realizaréis por grupos y en un soporte digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778160307984-ly4009xdh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Creación de un <strong>cartel publicitario</strong> junto con una <strong>presentación oral</strong> para la promoción de un producto o marca comercial inventada en relación con algún término o elemento de la cultura latina. Lo realizaréis por grupos y en un soporte digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr74t-8bxywptxp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo es la situación de aprendizaje?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo es la situación de aprendizaje?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo es la situación de aprendizaje?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo es la situación de aprendizaje?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr74t-8bxywptxp</odePageId>
+      <odeBlockId>block-1778161165506-1uke7x72y</odeBlockId>
+      <blockName>Descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74t-8bxywptxp</odePageId>
+          <odeBlockId>block-1778161165506-1uke7x72y</odeBlockId>
+          <odeIdeviceId>idevice-1778161165505-khxpizl6i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto vamos a descubrir que el latín no es solo una lengua del pasado, sino que sigue presente en nuestro entorno actual. Muchas palabras, expresiones, lemas y marcas comerciales tienen relación con el latín o con la cultura romana. A partir de varios ejemplos, analizaremos cómo ese legado sigue vivo hoy en la publicidad y en las marcas.</p>
+<p>Después, por grupos, crearéis vuestra propia marca o producto inventado inspirado en un término, una expresión o un elemento de la cultura latina. Para ello tendréis que investigar, seleccionar información, diseñar un cartel publicitario digital y preparar una breve presentación oral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778161165505-khxpizl6i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto vamos a descubrir que el latín no es solo una lengua del pasado, sino que sigue presente en nuestro entorno actual. Muchas palabras, expresiones, lemas y marcas comerciales tienen relación con el latín o con la cultura romana. A partir de varios ejemplos, analizaremos cómo ese legado sigue vivo hoy en la publicidad y en las marcas.</p>\n<p>Después, por grupos, crearéis vuestra propia marca o producto inventado inspirado en un término, una expresión o un elemento de la cultura latina. Para ello tendréis que investigar, seleccionar información, diseñar un cartel publicitario digital y preparar una breve presentación oral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74t-8bxywptxp</odePageId>
+      <odeBlockId>block-1778161208190-m6bfofvak</odeBlockId>
+      <blockName>¿Por qué vamos a trabajar este tema?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74t-8bxywptxp</odePageId>
+          <odeBlockId>block-1778161208190-m6bfofvak</odeBlockId>
+          <odeIdeviceId>idevice-1778161208189-tyruus7xt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto os ayudará a comprender que el latín y la cultura clásica siguen teniendo presencia en la actualidad. A través de una tarea creativa y cercana, podréis relacionar los contenidos de la materia con algo tan cotidiano como la publicidad.</p>
+<p>Además, no solo trabajaréis contenidos de Latín. También pondréis en práctica otras habilidades importantes: buscar información de forma adecuada, trabajar en equipo, usar herramientas digitales, crear un producto visual y explicar vuestras ideas de forma oral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778161208189-tyruus7xt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto os ayudará a comprender que el latín y la cultura clásica siguen teniendo presencia en la actualidad. A través de una tarea creativa y cercana, podréis relacionar los contenidos de la materia con algo tan cotidiano como la publicidad.</p>\n<p>Además, no solo trabajaréis contenidos de Latín. También pondréis en práctica otras habilidades importantes: buscar información de forma adecuada, trabajar en equipo, usar herramientas digitales, crear un producto visual y explicar vuestras ideas de forma oral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74t-8bxywptxp</odePageId>
+      <odeBlockId>block-1778161241271-jwppmvgaz</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74t-8bxywptxp</odePageId>
+          <odeBlockId>block-1778161241271-jwppmvgaz</odeBlockId>
+          <odeIdeviceId>idevice-1778161241270-9kl9cmwtu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Descubrir ejemplos de latín presentes en marcas y publicidad;</li>
+<li>participar en una actividad inicial para reconocer esos ejemplos;</li>
+<li>investigar en grupo sobre un término o referente de la cultura latina;</li>
+<li>inventar una marca o producto relacionado con ese referente;</li>
+<li>diseñar un cartel publicitario digital;</li>
+<li>preparar y realizar una presentación oral para explicar vuestra propuesta.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778161241270-9kl9cmwtu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Descubrir ejemplos de latín presentes en marcas y publicidad;</li>\n<li>participar en una actividad inicial para reconocer esos ejemplos;</li>\n<li>investigar en grupo sobre un término o referente de la cultura latina;</li>\n<li>inventar una marca o producto relacionado con ese referente;</li>\n<li>diseñar un cartel publicitario digital;</li>\n<li>preparar y realizar una presentación oral para explicar vuestra propuesta.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74t-8bxywptxp</odePageId>
+      <odeBlockId>block-1778161305956-lntb9491t</odeBlockId>
+      <blockName>¿Qué vais a entregar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74t-8bxywptxp</odePageId>
+          <odeBlockId>block-1778161305956-lntb9491t</odeBlockId>
+          <odeIdeviceId>idevice-1778161305955-rbgh0ozv5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al final del proyecto, cada grupo deberá presentar: un cartel publicitario digital sobre una marca o producto inventado que haga referencia a la lengua y/o a la cultura latina.</p>
+<p>Lo hará mediante presentación oral breve en la que explique:</p>
+<ol>
+<li>qué término, expresión o elemento latino ha elegido;</li>
+<li>qué relación tiene con la marca creada;</li>
+<li>por qué ha tomado esas decisiones de diseño y mensaje.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778161305955-rbgh0ozv5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al final del proyecto, cada grupo deberá presentar: un cartel publicitario digital sobre una marca o producto inventado que haga referencia a la lengua y/o a la cultura latina.</p>\n<p>Lo hará mediante presentación oral breve en la que explique:</p>\n<ol>\n<li>qué término, expresión o elemento latino ha elegido;</li>\n<li>qué relación tiene con la marca creada;</li>\n<li>por qué ha tomado esas decisiones de diseño y mensaje.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74t-8bxywptxp</odePageId>
+      <odeBlockId>block-1778161671508-y3qadmzxv</odeBlockId>
+      <blockName>¿Cómo vamos a trabajar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74t-8bxywptxp</odePageId>
+          <odeBlockId>block-1778161671508-y3qadmzxv</odeBlockId>
+          <odeIdeviceId>idevice-1778161671507-8mfgh6vd5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Trabajaremos de forma <strong>cooperativa</strong>, en grupos pequeños, para que podáis repartiros tareas, compartir ideas y construir el trabajo entre todos.</p>
+<p>Utilizaremos distintas <strong>herramientas digitales</strong>, como:</p>
+<ul>
+<li>Classroom, para consultar instrucciones y materiales;</li>
+<li>Kahoot, en la actividad inicial;</li>
+<li>Canva y Genially, para diseñar el cartel;</li>
+<li>bancos de recursos y enlaces seleccionados para buscar información e inspiración.</li>
+</ul>
+<p>El proyecto se desarrollará en <strong>4 sesiones</strong>:</p>
+<ul>
+<li>Sesión 1: introducción al tema, ejemplos, Kahoot y formación de grupos;</li>
+<li>Sesión 2: búsqueda de información y planificación del trabajo;</li>
+<li>Sesión 3: diseño del cartel y preparación de la presentación;</li>
+<li>Sesión 4: exposición de los trabajos y valoración final.</li>
+</ul>
+<p>Trabajaremos en el <strong>aula ordinaria </strong>y haremos uso de los <strong>ordenadores portátiles</strong>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778161671507-8mfgh6vd5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Trabajaremos de forma <strong>cooperativa</strong>, en grupos pequeños, para que podáis repartiros tareas, compartir ideas y construir el trabajo entre todos.</p>\n<p>Utilizaremos distintas <strong>herramientas digitales</strong>, como:</p>\n<ul>\n<li>Classroom, para consultar instrucciones y materiales;</li>\n<li>Kahoot, en la actividad inicial;</li>\n<li>Canva y Genially, para diseñar el cartel;</li>\n<li>bancos de recursos y enlaces seleccionados para buscar información e inspiración.</li>\n</ul>\n<p>El proyecto se desarrollará en <strong>4 sesiones</strong>:</p>\n<ul>\n<li>Sesión 1: introducción al tema, ejemplos, Kahoot y formación de grupos;</li>\n<li>Sesión 2: búsqueda de información y planificación del trabajo;</li>\n<li>Sesión 3: diseño del cartel y preparación de la presentación;</li>\n<li>Sesión 4: exposición de los trabajos y valoración final.</li>\n</ul>\n<p>Trabajaremos en el <strong>aula ordinaria </strong>y haremos uso de los <strong>ordenadores portátiles</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74t-8bxywptxp</odePageId>
+      <odeBlockId>block-1778161770220-sb747jd3t</odeBlockId>
+      <blockName>Importante</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74t-8bxywptxp</odePageId>
+          <odeBlockId>block-1778161770220-sb747jd3t</odeBlockId>
+          <odeIdeviceId>idevice-1778161770219-vj7wrq1yg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el proyecto será fundamental:</p>
+<ul>
+<li>trabajar con respeto dentro del grupo;</li>
+<li>usar la tecnología de manera responsable;</li>
+<li>seleccionar información fiable;</li>
+<li>respetar la autoría de imágenes y contenidos;</li>
+<li>participar activamente en el trabajo común.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778161770219-vj7wrq1yg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el proyecto será fundamental:</p>\n<ul>\n<li>trabajar con respeto dentro del grupo;</li>\n<li>usar la tecnología de manera responsable;</li>\n<li>seleccionar información fiable;</li>\n<li>respetar la autoría de imágenes y contenidos;</li>\n<li>participar activamente en el trabajo común.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr74v-w334xoi1h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr74v-w334xoi1h</odePageId>
+      <odeBlockId>block-1778163307807-121mw4qb1</odeBlockId>
+      <blockName>Paso a paso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74v-w334xoi1h</odePageId>
+          <odeBlockId>block-1778163307807-121mw4qb1</odeBlockId>
+          <odeIdeviceId>idevice-1778163307806-nm0xo2m1j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Iremos avanzando paso a paso. Siempre que lo necesites puedes ver en este <a href="https://canva.link/tg89mmbkgzq9r58" target="_blank" rel="noopener" title="">enlace de Canva</a> o en la imagen que ves debajo la temporalización de las distintas sesiones que abarca la situación de aprendizaje.</p>
+<p><img src="{{context_path}}/content/resources/2.png" width="1236" height="695" alt="paso a paso" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778163307806-nm0xo2m1j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Iremos avanzando paso a paso. Siempre que lo necesites puedes ver en este <a href=\"https://canva.link/tg89mmbkgzq9r58\" target=\"_blank\" rel=\"noopener\" title=\"\">enlace de Canva</a> o en la imagen que ves debajo la temporalización de las distintas sesiones que abarca la situación de aprendizaje.</p>\n<p><img src=\"{{context_path}}/content/resources/2.png\" width=\"1236\" height=\"695\" alt=\"paso a paso\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr74w-6n3ddrmbo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividad inicial</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad inicial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad inicial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr74w-6n3ddrmbo</odePageId>
+      <odeBlockId>block-1778162196368-av23zzz7h</odeBlockId>
+      <blockName>¿En qué consiste?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74w-6n3ddrmbo</odePageId>
+          <odeBlockId>block-1778162196368-av23zzz7h</odeBlockId>
+          <odeIdeviceId>idevice-1778162196367-ooilb7vzf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta actividad se corresponde con la primera sesión.</p>
+<ol>
+<li>Primero debéis estar atentos a la <strong>breve explicación</strong> con la que se inicia la sesión.</li>
+<li>A continuación haremos un <strong>Kahoot </strong>sobre el latín en las marcas comerciales. ¡Todo el mundo preparado para unirse!</li>
+<li>Terminaremos <strong>debatiendo </strong>sobre los ejemplos que han aparecido en el Kahoot u otros que se os ocurran para profundizar en el tema.</li>
+<li>Antes de irnos debéis completar la <strong>diana de autoevaluación</strong> sobre la sesión de hoy.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778162196367-ooilb7vzf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta actividad se corresponde con la primera sesión.</p>\n<ol>\n<li>Primero debéis estar atentos a la <strong>breve explicación</strong> con la que se inicia la sesión.</li>\n<li>A continuación haremos un <strong>Kahoot </strong>sobre el latín en las marcas comerciales. ¡Todo el mundo preparado para unirse!</li>\n<li>Terminaremos <strong>debatiendo </strong>sobre los ejemplos que han aparecido en el Kahoot u otros que se os ocurran para profundizar en el tema.</li>\n<li>Antes de irnos debéis completar la <strong>diana de autoevaluación</strong> sobre la sesión de hoy.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74w-6n3ddrmbo</odePageId>
+      <odeBlockId>block-1778162699076-7nmk5u8k1</odeBlockId>
+      <blockName>Diana de autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74w-6n3ddrmbo</odePageId>
+          <odeBlockId>block-1778162699076-7nmk5u8k1</odeBlockId>
+          <odeIdeviceId>idevice-1778162699075-ne5zaea5t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Completa esta <a href="https://canva.link/v2xup6bspftxufb" title="">diana de autoevaluación</a> con sinceridad reflexionando sobre realizado en esta sesión.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778162699075-ne5zaea5t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Completa esta <a href=\"https://canva.link/v2xup6bspftxufb\" title=\"\">diana de autoevaluación</a> con sinceridad reflexionando sobre realizado en esta sesión.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+      <odeBlockId>block-1778163660306-s4s0oep0w</odeBlockId>
+      <blockName>¿Qué tenéis que elaborar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+          <odeBlockId>block-1778163660306-s4s0oep0w</odeBlockId>
+          <odeIdeviceId>idevice-1778163660305-sa42t95zi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como ya os he ido adelantando,  vais a crear una <strong>marca o producto inventado</strong> relacionado con un término, una expresión o un elemento de la cultura latina.</p>
+<p>A partir de esa idea, tendréis que elaborar un <strong>cartel </strong>publicitario digital y preparar una <strong>presentación oral </strong>breve para explicar vuestra propuesta al resto de la clase.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778163660305-sa42t95zi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como ya os he ido adelantando,  vais a crear una <strong>marca o producto inventado</strong> relacionado con un término, una expresión o un elemento de la cultura latina.</p>\n<p>A partir de esa idea, tendréis que elaborar un <strong>cartel </strong>publicitario digital y preparar una <strong>presentación oral </strong>breve para explicar vuestra propuesta al resto de la clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+      <odeBlockId>block-1778163941038-u493uf1rt</odeBlockId>
+      <blockName>¿En qué formato?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+          <odeBlockId>block-1778163941038-u493uf1rt</odeBlockId>
+          <odeIdeviceId>idevice-1778163941037-1p3zwmymb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El trabajo final tendrá dos partes:</p>
+<ol>
+<li><strong>Un cartel publicitario digital</strong>: Lo diseñaréis con una herramienta digital, preferentemente Canva o Genially.</li>
+<li><strong>Una presentación oral</strong>: La realizaréis en clase para explicar vuestro trabajo.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778163941037-1p3zwmymb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El trabajo final tendrá dos partes:</p>\n<ol>\n<li><strong>Un cartel publicitario digital</strong>: Lo diseñaréis con una herramienta digital, preferentemente Canva o Genially.</li>\n<li><strong>Una presentación oral</strong>: La realizaréis en clase para explicar vuestro trabajo.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+      <odeBlockId>block-1778164004391-vo6yfspjy</odeBlockId>
+      <blockName>¿Cómo vais a trabajar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+          <odeBlockId>block-1778164004391-vo6yfspjy</odeBlockId>
+          <odeIdeviceId>idevice-1778164004391-jpettr6ec</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final se realizará <strong>en grupo</strong>. Trabajaréis en equipos pequeños de 4 personas y cada grupo deberá organizarse para investigar, tomar decisiones, diseñar el cartel y preparar la exposición oral.</p>
+<p>Cada miembro del grupo tendrá un rol principal, pero todas las decisiones importantes deberán tomarse de forma conjunta y todo el grupo debe conocer el trabajo completo.</p>
+<p><strong>Roles del grupo</strong></p>
+<ul>
+<li>Coordinador/a: organiza el trabajo y controla el tiempo.</li>
+<li>Investigador/a: busca y selecciona información fiable.</li>
+<li>Diseñador/a: elabora el cartel digital.</li>
+<li>Redactor/a-portavoz: redacta el eslogan y el mensaje publicitario y organiza la exposición oral.</li>
+</ul>
+<p><strong>Todos los miembros del grupo deben participar también en la exposición oral.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778164004391-jpettr6ec","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final se realizará <strong>en grupo</strong>. Trabajaréis en equipos pequeños de 4 personas y cada grupo deberá organizarse para investigar, tomar decisiones, diseñar el cartel y preparar la exposición oral.</p>\n<p>Cada miembro del grupo tendrá un rol principal, pero todas las decisiones importantes deberán tomarse de forma conjunta y todo el grupo debe conocer el trabajo completo.</p>\n<p><strong>Roles del grupo</strong></p>\n<ul>\n<li>Coordinador/a: organiza el trabajo y controla el tiempo.</li>\n<li>Investigador/a: busca y selecciona información fiable.</li>\n<li>Diseñador/a: elabora el cartel digital.</li>\n<li>Redactor/a-portavoz: redacta el eslogan y el mensaje publicitario y organiza la exposición oral.</li>\n</ul>\n<p><strong>Todos los miembros del grupo deben participar también en la exposición oral.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+      <odeBlockId>block-1778164231096-7pmuytsd4</odeBlockId>
+      <blockName>¿Qué debe contener el trabajo?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+          <odeBlockId>block-1778164231096-7pmuytsd4</odeBlockId>
+          <odeIdeviceId>idevice-1778164231095-axdkmlk8m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vuestro producto final deberá incluir:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>el <strong>nombre </strong>de la marca o del producto inventado;</li>
+<li>un <strong>eslogan </strong>o mensaje publicitario;</li>
+<li>una <strong>imagen </strong>o diseño visual adecuado;</li>
+<li>una relación clara con un término, expresión o elemento de la cultura latina;</li>
+<li>una breve explicación del significado o valor cultural de ese referente latino.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778164231095-axdkmlk8m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vuestro producto final deberá incluir:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>el <strong>nombre </strong>de la marca o del producto inventado;</li>\n<li>un <strong>eslogan </strong>o mensaje publicitario;</li>\n<li>una <strong>imagen </strong>o diseño visual adecuado;</li>\n<li>una relación clara con un término, expresión o elemento de la cultura latina;</li>\n<li>una breve explicación del significado o valor cultural de ese referente latino.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+      <odeBlockId>block-1778164366237-v0srg81su</odeBlockId>
+      <blockName>¿Cómo lo presentaréis?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+          <odeBlockId>block-1778164366237-v0srg81su</odeBlockId>
+          <odeIdeviceId>idevice-1778164366236-5mowq9397</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cada grupo realizará una <strong>presentación oral breve</strong> en clase, de 3 a 5 minutos, para mostrar su cartel y explicar:</p>
+<ul>
+<li>qué referente latino ha elegido;</li>
+<li>qué significa;</li>
+<li>por qué lo ha relacionado con esa marca o producto;</li>
+<li>qué decisiones ha tomado en el diseño del cartel y en el mensaje publicitario.</li>
+</ul>
+<p>En la exposición debéis hablar de forma clara, ordenada y respetuosa, repartiendo la intervención entre los miembros del grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778164366236-5mowq9397","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cada grupo realizará una <strong>presentación oral breve</strong> en clase, de 3 a 5 minutos, para mostrar su cartel y explicar:</p>\n<ul>\n<li>qué referente latino ha elegido;</li>\n<li>qué significa;</li>\n<li>por qué lo ha relacionado con esa marca o producto;</li>\n<li>qué decisiones ha tomado en el diseño del cartel y en el mensaje publicitario.</li>\n</ul>\n<p>En la exposición debéis hablar de forma clara, ordenada y respetuosa, repartiendo la intervención entre los miembros del grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+      <odeBlockId>block-1778164507079-vb7ligy7f</odeBlockId>
+      <blockName>Recordad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74x-qdb3imc9r</odePageId>
+          <odeBlockId>block-1778164507079-vb7ligy7f</odeBlockId>
+          <odeIdeviceId>idevice-1778164507078-4ua19ua03</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para que el trabajo esté bien hecho, es importante:</p>
+<ul style="list-style-type: circle;">
+<li>investigar antes de diseñar;</li>
+<li>trabajar de manera cooperativa;</li>
+<li>aprovechar el tiempo en clase;</li>
+<li>usar herramientas digitales de forma responsable;</li>
+<li>respetar la autoría de imágenes, textos y recursos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778164507078-4ua19ua03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para que el trabajo esté bien hecho, es importante:</p>\n<ul style=\"list-style-type: circle;\">\n<li>investigar antes de diseñar;</li>\n<li>trabajar de manera cooperativa;</li>\n<li>aprovechar el tiempo en clase;</li>\n<li>usar herramientas digitales de forma responsable;</li>\n<li>respetar la autoría de imágenes, textos y recursos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr74z-6b0wmfb7l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr74z-6b0wmfb7l</odePageId>
+      <odeBlockId>block-1778165049953-md2slm1mx</odeBlockId>
+      <blockName>Padlet colaborativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr74z-6b0wmfb7l</odePageId>
+          <odeBlockId>block-1778165049953-md2slm1mx</odeBlockId>
+          <odeIdeviceId>idevice-1778165049952-lhon5wtun</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Estáis atascados? ¿No sabéis como orientar vuestro trabajo? ¿No conocéis Canva o Genially? No os preocupéis, en este <a href="https://padlet.com/mveipor118/el-latin-en-la-publicidad-y-en-las-marcas-comerciales-itkd2ztpz2od4xya" target="_blank" title="Padlet: El latín en la publicidad y en las marcas comerciales" rel="noopener">Padlet</a> encontraréis recursos que os ayudarán.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778165049952-lhon5wtun","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Estáis atascados? ¿No sabéis como orientar vuestro trabajo? ¿No conocéis Canva o Genially? No os preocupéis, en este <a href=\"https://padlet.com/mveipor118/el-latin-en-la-publicidad-y-en-las-marcas-comerciales-itkd2ztpz2od4xya\" target=\"_blank\" title=\"Padlet: El latín en la publicidad y en las marcas comerciales\" rel=\"noopener\">Padlet</a> encontraréis recursos que os ayudarán.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr750-6qiemu2f9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr750-6qiemu2f9</odePageId>
+      <odeBlockId>block-1778165903090-i04blitmf</odeBlockId>
+      <blockName>Kahoot: El latín en las marcas comerciales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr750-6qiemu2f9</odePageId>
+          <odeBlockId>block-1778165903090-i04blitmf</odeBlockId>
+          <odeIdeviceId>idevice-1778165903089-k0jgqkjx0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Por aquí comparto el <a href="https://create.kahoot.it/share/el-latin-en-las-marcas-comerciales/bab6e57b-aa47-4f48-a650-b0fdcccbab0e" title="Kahoot: El latín en las marcas comerciales" target="_blank" rel="noopener">Kahoot</a> para realizar en la actividad inicial.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778165903089-k0jgqkjx0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Por aquí comparto el <a href=\"https://create.kahoot.it/share/el-latin-en-las-marcas-comerciales/bab6e57b-aa47-4f48-a650-b0fdcccbab0e\" title=\"Kahoot: El latín en las marcas comerciales\" target=\"_blank\" rel=\"noopener\">Kahoot</a> para realizar en la actividad inicial.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr750-6qiemu2f9</odePageId>
+      <odeBlockId>block-1778166160508-6dv8p16y9</odeBlockId>
+      <blockName>Otros recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr750-6qiemu2f9</odePageId>
+          <odeBlockId>block-1778166160508-6dv8p16y9</odeBlockId>
+          <odeIdeviceId>idevice-1778166160507-yu71a8iav</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Comparto un <a href="https://www.symbaloo.com/shared/AAAAA-MU4C0AA41_W3P1YA==" title="Webmix de symbaloo" target="_blank" rel="noopener">Webmix de symbaloo</a> con recursos para el profesorado de Latín y Griego.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166160507-yu71a8iav","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Comparto un <a href=\"https://www.symbaloo.com/shared/AAAAA-MU4C0AA41_W3P1YA==\" title=\"Webmix de symbaloo\" target=\"_blank\" rel=\"noopener\">Webmix de symbaloo</a> con recursos para el profesorado de Latín y Griego.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr751-j86096gwc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad y responsabilidad digital</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y responsabilidad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y responsabilidad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr751-j86096gwc</odePageId>
+      <odeBlockId>block-1778165368488-mdcmljkww</odeBlockId>
+      <blockName>Protección de datos personales y garantías de derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr751-j86096gwc</odePageId>
+          <odeBlockId>block-1778165368488-mdcmljkww</odeBlockId>
+          <odeIdeviceId>idevice-1778165368487-ntyz1o7uy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Debemos trabajar de forma segura, responsable y respetuosa. A continuación os dejo una <a href="https://canva.link/oevpy8y9njip8tr" title="">infografía</a> con aspectos clave sobre seguridad y responsabilidad digital.</p>
+<p><img src="{{context_path}}/content/resources/1.png" width="800" height="2000" alt="seguridad" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778165368487-ntyz1o7uy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Debemos trabajar de forma segura, responsable y respetuosa. A continuación os dejo una <a href=\"https://canva.link/oevpy8y9njip8tr\" title=\"\">infografía</a> con aspectos clave sobre seguridad y responsabilidad digital.</p>\n<p><img src=\"{{context_path}}/content/resources/1.png\" width=\"800\" height=\"2000\" alt=\"seguridad\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr751-akedu40mf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo será la evaluación?</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo será la evaluación?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo será la evaluación?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo será la evaluación?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr751-akedu40mf</odePageId>
+      <odeBlockId>block-1778166768552-z8yq6p4u2</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr751-akedu40mf</odePageId>
+          <odeBlockId>block-1778166768552-z8yq6p4u2</odeBlockId>
+          <odeIdeviceId>idevice-1778166768551-6u305fb7k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los <strong>criterios </strong>de evaluación son los siguientes:</p>
+<p><strong>4.2. </strong>Debatir con apoyo acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado romano en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.</p>
+<p><strong>4.3.</strong> Elaborar trabajos de investigación de manera progresivamente autónoma, en grupo o individualmente, en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico, localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.</p>
+<p><strong>5.1. </strong>Identificar y explicar de forma elemental y básica el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados. <br /></p>
+<p><strong>Mucho texto, ¿no? En resumen:</strong></p>
+<ul>
+<li>vuestra participación en clase y en los debates;</li>
+<li>vuestra capacidad para investigar y seleccionar información fiable;</li>
+<li>el respeto por las fuentes y la autoría de los materiales utilizados;</li>
+<li>vuestra capacidad para reconocer y explicar el legado latino en la actualidad;</li>
+<li>el trabajo en grupo;</li>
+<li>la calidad del cartel publicitario digital;</li>
+<li>la claridad de la exposición oral.</li>
+</ul>
+<p><strong>Recuerda</strong>: no se evaluará solo el producto final, sino también cómo investigáis, cómo trabajáis en grupo y cómo explicáis vuestras ideas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166768551-6u305fb7k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los <strong>criterios </strong>de evaluación son los siguientes:</p>\n<p><strong>4.2. </strong>Debatir con apoyo acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado romano en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.</p>\n<p><strong>4.3.</strong> Elaborar trabajos de investigación de manera progresivamente autónoma, en grupo o individualmente, en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico, localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.</p>\n<p><strong>5.1. </strong>Identificar y explicar de forma elemental y básica el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados. <br /></p>\n<p><strong>Mucho texto, ¿no? En resumen:</strong></p>\n<ul>\n<li>vuestra participación en clase y en los debates;</li>\n<li>vuestra capacidad para investigar y seleccionar información fiable;</li>\n<li>el respeto por las fuentes y la autoría de los materiales utilizados;</li>\n<li>vuestra capacidad para reconocer y explicar el legado latino en la actualidad;</li>\n<li>el trabajo en grupo;</li>\n<li>la calidad del cartel publicitario digital;</li>\n<li>la claridad de la exposición oral.</li>\n</ul>\n<p><strong>Recuerda</strong>: no se evaluará solo el producto final, sino también cómo investigáis, cómo trabajáis en grupo y cómo explicáis vuestras ideas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr751-akedu40mf</odePageId>
+      <odeBlockId>block-1778167275896-uoebqrwxa</odeBlockId>
+      <blockName>Instrumentos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr751-akedu40mf</odePageId>
+          <odeBlockId>block-1778167275896-uoebqrwxa</odeBlockId>
+          <odeIdeviceId>idevice-1778167275895-ulj3t0prj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la actividad inicial realizaréis una <strong>autoevaluación </strong>con ayuda de una <strong>diana </strong>que os he adjuntado en el apartado de actividad inicial.</p>
+<p>Para el trabajo en grupo y el producto final utilizaré la siguiente <strong>rúbrica </strong>para evaluaros:</p>
+<table border="1" style="width: 100.047%; height: 222.6px; border-style: dotted;">
+<tbody>
+<tr style="height: 25.8px;">
+<td style="width: 19.9704%; text-align: center; height: 25.8px;">
+<p><strong>Indicadores </strong></p>
+</td>
+<td style="width: 19.9704%; text-align: center; height: 25.8px;">
+<p><strong>4 - Excelente</strong></p>
+</td>
+<td style="width: 19.9704%; text-align: center; height: 25.8px;">
+<p><strong>3 - Adecuado</strong></p>
+</td>
+<td style="width: 19.9704%; text-align: center; height: 25.8px;">
+<p><strong>2 - En proceso</strong></p>
+</td>
+<td style="width: 19.9764%; text-align: center; height: 25.8px;">
+<p><strong>1 - Inicial</strong></p>
+</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;">
+<p><strong>Identificación y relación con el legado latino</strong></p>
+</td>
+<td style="width: 19.9704%; height: 32.8px;">
+<p>Identifica y relaciona con claridad el referente latino con la propuesta creada.</p>
+</td>
+<td style="width: 19.9704%; height: 32.8px;">
+<p>Identifica y relaciona adecuadamente el referente latino.</p>
+</td>
+<td style="width: 19.9704%; height: 32.8px;">La relación es poco clara o superficial.</td>
+<td style="width: 19.9764%; height: 32.8px;">No identifica bien el referente ni su relación con la propuesta.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;"><strong>Explicación del valor cultural del referente</strong></td>
+<td style="width: 19.9704%; height: 32.8px;">Explica con claridad y fundamento el valor cultural del referente latino.</td>
+<td style="width: 19.9704%; height: 32.8px;">Lo explica de forma adecuada.</td>
+<td style="width: 19.9704%; height: 32.8px;">Lo explica de forma básica o incompleta.</td>
+<td style="width: 19.9764%; height: 32.8px;">No logra explicarlo adecuadamente.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;"><strong>Investigación y selección de información</strong></td>
+<td style="width: 19.9704%; height: 32.8px;">Busca, selecciona y contrasta información con rigor y autonomía.</td>
+<td style="width: 19.9704%; height: 32.8px;">Busca y selecciona información adecuada.</td>
+<td style="width: 19.9704%; height: 32.8px;">La selección es limitada o poco rigurosa.</td>
+<td style="width: 19.9764%; height: 32.8px;">Tiene dificultades para investigar y seleccionar información pertinente.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;"><strong>Rigor y respeto a la propiedad intelectual</strong></td>
+<td style="width: 19.9704%; height: 32.8px;">Reelabora la información y cita o respeta correctamente fuentes e imágenes.</td>
+<td style="width: 19.9704%; height: 32.8px;">Respeta en general las fuentes utilizadas.</td>
+<td style="width: 19.9704%; height: 32.8px;">Lo hace de forma parcial o poco clara.</td>
+<td style="width: 19.9764%; height: 32.8px;">No respeta adecuadamente la autoría o copia información sin reelaborar.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;"><strong>Calidad del cartel publicitario digital</strong></td>
+<td style="width: 19.9704%; height: 32.8px;">El cartel es claro, creativo y muy adecuado al objetivo.</td>
+<td style="width: 19.9704%; height: 32.8px;">El cartel es adecuado y comunica bien la idea.</td>
+<td style="width: 19.9704%; height: 32.8px;">El cartel presenta algunas carencias de claridad o diseño.</td>
+<td style="width: 19.9764%; height: 32.8px;">El cartel es confuso o incompleto.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;"><strong>Trabajo en grupo, responsabilidad y autonomía</strong></td>
+<td style="width: 19.9704%; height: 32.8px;">Participa activamente, colabora, se responsabiliza y aprovecha muy bien el tiempo.</td>
+<td style="width: 19.9704%; height: 32.8px;">Participa y colabora de forma adecuada.<br /></td>
+<td style="width: 19.9704%; height: 32.8px;">Participa de forma irregular o necesita ayuda frecuente.</td>
+<td style="width: 19.9764%; height: 32.8px;">Apenas participa o dificulta el trabajo común.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778167275895-ulj3t0prj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la actividad inicial realizaréis una <strong>autoevaluación </strong>con ayuda de una <strong>diana </strong>que os he adjuntado en el apartado de actividad inicial.</p>\n<p>Para el trabajo en grupo y el producto final utilizaré la siguiente <strong>rúbrica </strong>para evaluaros:</p>\n<table border=\"1\" style=\"width: 100.047%; height: 222.6px; border-style: dotted;\">\n<tbody>\n<tr style=\"height: 25.8px;\">\n<td style=\"width: 19.9704%; text-align: center; height: 25.8px;\">\n<p><strong>Indicadores </strong></p>\n</td>\n<td style=\"width: 19.9704%; text-align: center; height: 25.8px;\">\n<p><strong>4 - Excelente</strong></p>\n</td>\n<td style=\"width: 19.9704%; text-align: center; height: 25.8px;\">\n<p><strong>3 - Adecuado</strong></p>\n</td>\n<td style=\"width: 19.9704%; text-align: center; height: 25.8px;\">\n<p><strong>2 - En proceso</strong></p>\n</td>\n<td style=\"width: 19.9764%; text-align: center; height: 25.8px;\">\n<p><strong>1 - Inicial</strong></p>\n</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\">\n<p><strong>Identificación y relación con el legado latino</strong></p>\n</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">\n<p>Identifica y relaciona con claridad el referente latino con la propuesta creada.</p>\n</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">\n<p>Identifica y relaciona adecuadamente el referente latino.</p>\n</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">La relación es poco clara o superficial.</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">No identifica bien el referente ni su relación con la propuesta.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\"><strong>Explicación del valor cultural del referente</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Explica con claridad y fundamento el valor cultural del referente latino.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Lo explica de forma adecuada.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Lo explica de forma básica o incompleta.</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">No logra explicarlo adecuadamente.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\"><strong>Investigación y selección de información</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Busca, selecciona y contrasta información con rigor y autonomía.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Busca y selecciona información adecuada.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">La selección es limitada o poco rigurosa.</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">Tiene dificultades para investigar y seleccionar información pertinente.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\"><strong>Rigor y respeto a la propiedad intelectual</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Reelabora la información y cita o respeta correctamente fuentes e imágenes.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Respeta en general las fuentes utilizadas.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Lo hace de forma parcial o poco clara.</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">No respeta adecuadamente la autoría o copia información sin reelaborar.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\"><strong>Calidad del cartel publicitario digital</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px;\">El cartel es claro, creativo y muy adecuado al objetivo.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">El cartel es adecuado y comunica bien la idea.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">El cartel presenta algunas carencias de claridad o diseño.</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">El cartel es confuso o incompleto.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\"><strong>Trabajo en grupo, responsabilidad y autonomía</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Participa activamente, colabora, se responsabiliza y aprovecha muy bien el tiempo.</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Participa y colabora de forma adecuada.<br /></td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Participa de forma irregular o necesita ayuda frecuente.</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">Apenas participa o dificulta el trabajo común.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr753-6irjs9cf5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778168368662-m8pgw4vts</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778168368662-m8pgw4vts</odeBlockId>
+          <odeIdeviceId>idevice-1778168368661-na34q9a39</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Reconocer la presencia del legado latino en la publicidad y en las marcas comerciales actuales.</li>
+<li>Relacionar elementos de la civilización latina con manifestaciones culturales contemporáneas.</li>
+<li>Buscar, seleccionar, contrastar y reelaborar información de forma guiada y progresivamente autónoma.</li>
+<li>Elaborar en grupo un producto digital creativo relacionado con el mundo latino.</li>
+<li>Desarrollar la expresión oral mediante la presentación del trabajo realizado.</li>
+<li>Utilizar herramientas digitales de forma responsable, segura y respetuosa con la propiedad intelectual.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778168368661-na34q9a39","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Reconocer la presencia del legado latino en la publicidad y en las marcas comerciales actuales.</li>\n<li>Relacionar elementos de la civilización latina con manifestaciones culturales contemporáneas.</li>\n<li>Buscar, seleccionar, contrastar y reelaborar información de forma guiada y progresivamente autónoma.</li>\n<li>Elaborar en grupo un producto digital creativo relacionado con el mundo latino.</li>\n<li>Desarrollar la expresión oral mediante la presentación del trabajo realizado.</li>\n<li>Utilizar herramientas digitales de forma responsable, segura y respetuosa con la propiedad intelectual.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778169573250-3zn32fao3</odeBlockId>
+      <blockName>Competencias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778169573250-3zn32fao3</odeBlockId>
+          <odeIdeviceId>idevice-1778169573249-5x2crfegy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>4</strong>. Analizar las características de la civilización latina en el ámbito personal, religioso y sociopolítico, adquiriendo conocimientos sobre el mundo romano y comparando críticamente el presente y el pasado, para valorar las aportaciones del mundo clásico latino a nuestro entorno como base de una ciudadanía democrática y comprometida.</p>
+<p><strong>5</strong>. Valorar críticamente el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, interesándose por su sostenibilidad y reconociéndolo como producto de la creación humana y como testimonio de la historia, para explicar el legado material e inmaterial latino como transmisor de conocimiento y fuente de inspiración de creaciones modernas y contemporáneas.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169573249-5x2crfegy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>4</strong>. Analizar las características de la civilización latina en el ámbito personal, religioso y sociopolítico, adquiriendo conocimientos sobre el mundo romano y comparando críticamente el presente y el pasado, para valorar las aportaciones del mundo clásico latino a nuestro entorno como base de una ciudadanía democrática y comprometida.</p>\n<p><strong>5</strong>. Valorar críticamente el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, interesándose por su sostenibilidad y reconociéndolo como producto de la creación humana y como testimonio de la historia, para explicar el legado material e inmaterial latino como transmisor de conocimiento y fuente de inspiración de creaciones modernas y contemporáneas.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778169687240-w7yioadvb</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778169687240-w7yioadvb</odeBlockId>
+          <odeIdeviceId>idevice-1778169687239-xlz200tsl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>LATI.1.C.9.</strong> Respeto de la propiedad intelectual y derechos de autor sobre las fuentes consultadas y contenidos utilizados: herramientas para el tratamiento de datos bibliográficos y recursos para evitar el plagio.</p>
+<p><strong>LATI.1.D.4.</strong> Historia y organización política y social de Roma como parte esencial de la historia y cultura de la sociedad actual.</p>
+<p><strong>LATI.1.E.1. </strong>Conceptos de legado, herencia y patrimonio.</p>
+<p><strong>LATI.1.E.9. </strong>Técnicas básicas de debate y de exposición oral.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169687239-xlz200tsl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>LATI.1.C.9.</strong> Respeto de la propiedad intelectual y derechos de autor sobre las fuentes consultadas y contenidos utilizados: herramientas para el tratamiento de datos bibliográficos y recursos para evitar el plagio.</p>\n<p><strong>LATI.1.D.4.</strong> Historia y organización política y social de Roma como parte esencial de la historia y cultura de la sociedad actual.</p>\n<p><strong>LATI.1.E.1. </strong>Conceptos de legado, herencia y patrimonio.</p>\n<p><strong>LATI.1.E.9. </strong>Técnicas básicas de debate y de exposición oral.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778169754153-z5nivaytz</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778169754153-z5nivaytz</odeBlockId>
+          <odeIdeviceId>idevice-1778169754152-wyw5rrd51</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>4.2.</strong> Debatir con apoyo acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado romano en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.</p>
+<p><strong>4.3.</strong> Elaborar trabajos de investigación de manera progresivamente autónoma, en grupo o individualmente, en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico, localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.</p>
+<p><strong>5.1.</strong> Identificar y explicar de forma elemental y básica el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados. <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169754152-wyw5rrd51","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>4.2.</strong> Debatir con apoyo acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado romano en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.</p>\n<p><strong>4.3.</strong> Elaborar trabajos de investigación de manera progresivamente autónoma, en grupo o individualmente, en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico, localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.</p>\n<p><strong>5.1.</strong> Identificar y explicar de forma elemental y básica el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados. <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778169819759-k1hra585o</odeBlockId>
+      <blockName>Asociación de las tareas a los criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778169819759-k1hra585o</odeBlockId>
+          <odeIdeviceId>idevice-1778169819758-ccn2ywsiw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente <a href="https://docs.google.com/document/d/1mv5Pgh7kndOjyMp2HVT23SHmfVD2YpevWpS7coKWWK0/edit?usp=sharing" title="Doc: Asociamos tareas a criterios de evaluación" target="_blank" rel="noopener">documento de Google</a> detallo la relación entre las tareas y actividades de la situación de aprendizaje con los criterios de evaluación, así como la temporalización de las mismas, las agrupaciones del alumnado y las herramientas con las que se trabajarán.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169819758-ccn2ywsiw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente <a href=\"https://docs.google.com/document/d/1mv5Pgh7kndOjyMp2HVT23SHmfVD2YpevWpS7coKWWK0/edit?usp=sharing\" title=\"Doc: Asociamos tareas a criterios de evaluación\" target=\"_blank\" rel=\"noopener\">documento de Google</a> detallo la relación entre las tareas y actividades de la situación de aprendizaje con los criterios de evaluación, así como la temporalización de las mismas, las agrupaciones del alumnado y las herramientas con las que se trabajarán.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778170377144-57v3e6t30</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778170377144-57v3e6t30</odeBlockId>
+          <odeIdeviceId>idevice-1778170377142-ugs0borp5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación combinará distintos instrumentos para valorar tanto el proceso como el producto final del alumnado.</p>
+<ul>
+<li>Diana de autoevaluación inicial, para conocer el punto de partida del alumnado tras la primera sesión.</li>
+<li>Rúbrica analítica, para valorar el producto final y el trabajo cooperativo.</li>
+<li>Observación directa, durante el desarrollo de las sesiones, especialmente en relación con la participación, el trabajo en grupo y el uso responsable de las herramientas digitales.</li>
+</ul>
+<p>En el siguiente <a href="https://docs.google.com/document/d/106IuxUh6dnUiwvjZQ8m1Rjx24A3HS84m_LTQNeIax9Y/edit?usp=sharing" title="Doc: Instrumentos de evaluación" target="_blank" rel="noopener">documento de Google</a> adjunto y explico los instrumentos de evaluación que se van a utilizar en la situación de aprendizaje. En relación a cada uno detallo: los criterios con los que se relaciona; qué se va a evaluar; cómo se obtendrán estos datos; qué variables pueden surgir y cómo serán tratadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170377142-ugs0borp5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación combinará distintos instrumentos para valorar tanto el proceso como el producto final del alumnado.</p>\n<ul>\n<li>Diana de autoevaluación inicial, para conocer el punto de partida del alumnado tras la primera sesión.</li>\n<li>Rúbrica analítica, para valorar el producto final y el trabajo cooperativo.</li>\n<li>Observación directa, durante el desarrollo de las sesiones, especialmente en relación con la participación, el trabajo en grupo y el uso responsable de las herramientas digitales.</li>\n</ul>\n<p>En el siguiente <a href=\"https://docs.google.com/document/d/106IuxUh6dnUiwvjZQ8m1Rjx24A3HS84m_LTQNeIax9Y/edit?usp=sharing\" title=\"Doc: Instrumentos de evaluación\" target=\"_blank\" rel=\"noopener\">documento de Google</a> adjunto y explico los instrumentos de evaluación que se van a utilizar en la situación de aprendizaje. En relación a cada uno detallo: los criterios con los que se relaciona; qué se va a evaluar; cómo se obtendrán estos datos; qué variables pueden surgir y cómo serán tratadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778170751606-ct7hhufyo</odeBlockId>
+      <blockName>Metodología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778170751606-ct7hhufyo</odeBlockId>
+          <odeIdeviceId>idevice-1778170751605-9r4ei3day</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se basa en una metodología activa, participativa y competencial. El alumnado asume un papel protagonista en el proceso de aprendizaje a través de la investigación, la creación de un producto digital y la exposición oral de su trabajo.</p>
+<p>Se empleará el trabajo cooperativo en grupos heterogéneos, favoreciendo el reparto de responsabilidades, la interacción entre iguales y la construcción compartida del conocimiento. Cada grupo organizará su tarea a partir de roles definidos y de una secuencia de actividades que va desde la motivación inicial hasta la elaboración y presentación del producto final.</p>
+<p>Asimismo, se incorporará el uso de tecnologías digitales como apoyo al aprendizaje y a la creación de contenidos. El alumnado utilizará herramientas como Kahoot, Padlet o Canva, así como recursos digitales seleccionados previamente por la docente. Se promoverá en todo momento un uso responsable, seguro, crítico y respetuoso de la tecnología, prestando especial atención a la protección de datos, la identidad digital, la propiedad intelectual y el uso adecuado de fuentes e imágenes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170751605-9r4ei3day","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se basa en una metodología activa, participativa y competencial. El alumnado asume un papel protagonista en el proceso de aprendizaje a través de la investigación, la creación de un producto digital y la exposición oral de su trabajo.</p>\n<p>Se empleará el trabajo cooperativo en grupos heterogéneos, favoreciendo el reparto de responsabilidades, la interacción entre iguales y la construcción compartida del conocimiento. Cada grupo organizará su tarea a partir de roles definidos y de una secuencia de actividades que va desde la motivación inicial hasta la elaboración y presentación del producto final.</p>\n<p>Asimismo, se incorporará el uso de tecnologías digitales como apoyo al aprendizaje y a la creación de contenidos. El alumnado utilizará herramientas como Kahoot, Padlet o Canva, así como recursos digitales seleccionados previamente por la docente. Se promoverá en todo momento un uso responsable, seguro, crítico y respetuoso de la tecnología, prestando especial atención a la protección de datos, la identidad digital, la propiedad intelectual y el uso adecuado de fuentes e imágenes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778170835714-dqdwiv94e</odeBlockId>
+      <blockName>Atención a la diversidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778170835714-dqdwiv94e</odeBlockId>
+          <odeIdeviceId>idevice-1778170835713-3fj2v2cyd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La propuesta tiene en cuenta la diversidad del aula mediante la creación de grupos heterogéneos, con el fin de favorecer la ayuda entre iguales, compensar diferentes ritmos de aprendizaje y facilitar la participación del conjunto del alumnado.</p>
+<p>Además, se aplicarán pautas DUA, ofreciendo diferentes formas de acceso a la información, de participación y de expresión del aprendizaje. Para ello, se combinarán explicaciones orales, apoyos visuales, recursos digitales variados, instrucciones claras y secuenciadas, así como modelos y ejemplos que faciliten la comprensión de la tarea. También se contemplará la flexibilidad en el acompañamiento docente, en la organización del trabajo y en la adaptación de apoyos cuando sea necesario.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170835713-3fj2v2cyd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La propuesta tiene en cuenta la diversidad del aula mediante la creación de grupos heterogéneos, con el fin de favorecer la ayuda entre iguales, compensar diferentes ritmos de aprendizaje y facilitar la participación del conjunto del alumnado.</p>\n<p>Además, se aplicarán pautas DUA, ofreciendo diferentes formas de acceso a la información, de participación y de expresión del aprendizaje. Para ello, se combinarán explicaciones orales, apoyos visuales, recursos digitales variados, instrucciones claras y secuenciadas, así como modelos y ejemplos que faciliten la comprensión de la tarea. También se contemplará la flexibilidad en el acompañamiento docente, en la organización del trabajo y en la adaptación de apoyos cuando sea necesario.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movyr753-6irjs9cf5</odePageId>
+      <odeBlockId>block-1778170915109-87ncwwd3a</odeBlockId>
+      <blockName>Observaciones y recomendaciones para su aplicación en el aula</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>8</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr753-6irjs9cf5</odePageId>
+          <odeBlockId>block-1778170915109-87ncwwd3a</odeBlockId>
+          <odeIdeviceId>idevice-1778170915108-7jj7mbuy6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li>Conviene presentar desde el inicio ejemplos cercanos y motivadores para favorecer la conexión del alumnado con el tema.</li>
+<li>Es recomendable explicar de forma clara los roles dentro del grupo y realizar un seguimiento frecuente del trabajo cooperativo.</li>
+<li>Resulta útil facilitar un banco de recursos previamente seleccionado para orientar la búsqueda de información y evitar la dispersión.</li>
+<li>Se aconseja recordar al alumnado las normas de uso responsable de imágenes, textos y herramientas digitales antes de comenzar la elaboración del cartel.</li>
+<li>Puede ser conveniente prever alternativas ante posibles dificultades técnicas, como compartir dispositivos o disponer de modelos de apoyo impresos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170915108-7jj7mbuy6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li>Conviene presentar desde el inicio ejemplos cercanos y motivadores para favorecer la conexión del alumnado con el tema.</li>\n<li>Es recomendable explicar de forma clara los roles dentro del grupo y realizar un seguimiento frecuente del trabajo cooperativo.</li>\n<li>Resulta útil facilitar un banco de recursos previamente seleccionado para orientar la búsqueda de información y evitar la dispersión.</li>\n<li>Se aconseja recordar al alumnado las normas de uso responsable de imágenes, textos y herramientas digitales antes de comenzar la elaboración del cartel.</li>\n<li>Puede ser conveniente prever alternativas ante posibles dificultades técnicas, como compartir dispositivos o disponer de modelos de apoyo impresos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movyr755-djdab1eeg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movyr755-djdab1eeg</odePageId>
+      <odeBlockId>block-1778173170790-mk1x1r1ss</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movyr755-djdab1eeg</odePageId>
+          <odeBlockId>block-1778173170790-mk1x1r1ss</odeBlockId>
+          <odeIdeviceId>idevice-1778173170789-phiub69sv</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">El latín en la publicidad y en las marcas comerciales</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Se trata de una situación de aprendizaje en la que exploraremos la pervivencia de términos y expresiones de la cultura latina en la actualidad y su influencia en la publicidad y las marcas comerciales. Realizaremos una actividad introductoria gamificada en el aula y seguidamente el alumnado elaborará un producto final que consistirá en la creación de un cartel publicitario junto con una presentación oral para la promoción de un producto o marca comercial inventada en relación con algún término o elemento de la cultura latina. Lo harán en grupo y el soporte para el cartel será digital.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María de la Paz Veintimilla Porlán</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
